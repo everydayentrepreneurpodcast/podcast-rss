@@ -6,6 +6,7 @@
     <title>Everyday entrepreneur </title>
     <language>fr-fr</language>
     <description>Une courte description de ton podcast.</description>
+    <managingEditor>ton.email@example.com (Ton Nom)</managingEditor>
     <itunes:author>A.I</itunes:author>
     <itunes:summary>Résumé plus détaillé de ton podcast.</itunes:summary>
     <itunes:image href="https://i.postimg.cc/WzM4RgDy/43552199-1745758006101-6698553a7ad3a.jpg"/>
