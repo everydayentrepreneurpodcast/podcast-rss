@@ -9,9 +9,9 @@
   <item>
     <title>$('Upload file').first().json.name</title>
     <description>Épisode auto-généré</description>
-    <enclosure url="https://drive.google.com/file/d/$('Upload file').first().json.id" length="12345" type="audio/m4a"/>
-    <guid>https://drive.google.com/file/d/$('Upload file').first().json.id</guid>
-    <pubDate>Fri, 18 Jul 2025 18:56:28 GMT</pubDate>
+    <enclosure url="$('Upload file').first().json.webViewLink" length="12345" type="audio/m4a"/>
+    <guid>$('Upload file').first().json.webViewLink</guid>
+    <pubDate>Fri, 18 Jul 2025 18:58:31 GMT</pubDate>
   </item>
 </channel>
 </rss>
