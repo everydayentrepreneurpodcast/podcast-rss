@@ -23,11 +23,11 @@
   </item>
 
   <item>
-    <title>$('Upload file').first().json.name</title>
+    <title>Jean du Jardin.m4a</title>
     <description>Épisode auto-généré</description>
-    <enclosure url="$('Upload file').first().json.webContentLink" length="12345" type="audio/m4a"/>
-    <guid>$('Upload file').first().json.webContentLink</guid>
-    <pubDate>Fri, 18 Jul 2025 20:40:35 GMT</pubDate>
+    <enclosure url="https://drive.google.com/file/d/12cpnBke6KeLML54uaQ7PZwIo6ZeWBoln/view?usp=drivesdk" length="12345" type="audio/m4a"/>
+    <guid>https://drive.google.com/file/d/12cpnBke6KeLML54uaQ7PZwIo6ZeWBoln/view?usp=drivesdk</guid>
+    <pubDate>Fri, 18 Jul 2025 20:44:56 GMT</pubDate>
   </item>
 </channel>
 </rss>
