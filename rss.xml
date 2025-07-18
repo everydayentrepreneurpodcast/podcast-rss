@@ -3,15 +3,20 @@
 <channel>
   <title>Everyday Entrepreneur Podcast</title>
   <link>https://drive.google.com/file/d/1aTszlSzZ6JsML5h8h00q6dpWLEbB9VE9</link>
-  <description>Le podcast des entrepreneurs du quotidien</description>
-  <language>fr-fr</language>
-
-  <item>
-    <title>Le bonjour du podcast.m4a</title>
-    <description>Épisode auto-généré</description>
-    <enclosure url="https://drive.google.com/file/d/1sYqPH6U8mC9r4RJ30JDJKftQ3-IHTCYZ/view?usp=drivesdk" length="12345" type="audio/m4a"/>
-    <guid>https://drive.google.com/file/d/1sYqPH6U8mC9r4RJ30JDJKftQ3-IHTCYZ/view?usp=drivesdk</guid>
-    <pubDate>Fri, 18 Jul 2025 20:48:26 GMT</pubDate>
-  </item>
+  <description>🎙️ Everyday Entrepreneurs is the podcast that reveals the stories, strategies, and lessons behind the greatest entrepreneurial successes.
+Every week, discover how simple ideas turned into empires — and how you can find inspiration to build your own path.
+No complicated jargon, no empty theories: here, we talk business clearly, directly, and authentically.
+Whether you're a student, a creator, an employee, or an aspiring entrepreneur, Everyday Entrepreneurs is your go-to show to learn, get inspired, and dream big. 🚀
+</description>
+  <language>en-us</language>
+  <image>
+    <url>https://i.postimg.cc/WzM4RgDy/43552199-1745758006101-6698553a7ad3a.jpg</url>
+    <title>Everyday Entrepreneur Podcast</title>
+  </image>
+  <itunes:author>Maxence Royer</itunes:author>
+  <itunes:owner>
+    <itunes:name>Maxence Royer</itunes:name>
+    <itunes:email>your@email.com</itunes:email>
+  </itunes:owner>
 </channel>
 </rss>
