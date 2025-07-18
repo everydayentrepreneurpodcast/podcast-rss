@@ -5,20 +5,5 @@
   <link>https://drive.google.com/file/d/1aTszlSzZ6JsML5h8h00q6dpWLEbB9VE9</link>
   <description>Le podcast des entrepreneurs du quotidien</description>
   <language>fr-fr</language>
-  <item>
-    <title>La Renaissance de Nokia : Une Success Story de Résilience et d'Innovation.m4a</title>
-    <description>Épisode auto-généré</description>
-    <enclosure url="https://drive.google.com/file/d/1aTszlSzZ6JsML5h8h00q6dpWLEbB9VE9" length="12345" type="audio/m4a"/>
-    <guid>https://drive.google.com/file/d/1aTszlSzZ6JsML5h8h00q6dpWLEbB9VE9</guid>
-    <pubDate>Fri, 18 Jul 2025 14:57:46 GMT</pubDate>
-  </item>
-
-  <item>
-    <title>$('Upload file').first().json.name</title>
-    <description>Épisode auto-généré</description>
-    <enclosure url="https://drive.google.com/file/d/$('Upload file').first().json.id" length="12345" type="audio/m4a"/>
-    <guid>https://drive.google.com/file/d/$('Upload file').first().json.id</guid>
-    <pubDate>Fri, 18 Jul 2025 18:53:57 GMT</pubDate>
-  </item>
 </channel>
 </rss>
