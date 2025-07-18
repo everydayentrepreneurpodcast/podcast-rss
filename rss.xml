@@ -5,5 +5,13 @@
   <link>https://drive.google.com/file/d/1aTszlSzZ6JsML5h8h00q6dpWLEbB9VE9</link>
   <description>Le podcast des entrepreneurs du quotidien</description>
   <language>fr-fr</language>
+
+  <item>
+    <title>$('Upload file').first().json.name</title>
+    <description>Épisode auto-généré</description>
+    <enclosure url="https://drive.google.com/file/d/$('Upload file').first().json.id" length="12345" type="audio/m4a"/>
+    <guid>https://drive.google.com/file/d/$('Upload file').first().json.id</guid>
+    <pubDate>Fri, 18 Jul 2025 20:38:56 GMT</pubDate>
+  </item>
 </channel>
 </rss>
