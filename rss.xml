@@ -1,30 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss 
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:anchor="https://anchor.fm/xmlns"
-  xmlns:podcast="https://podcastindex.org/namespace/1.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:psc="http://podlove.org/simple-chapters"
-  version="2.0">
+<rss version="2.0">
 <channel>
   <title>Everyday Entrepreneur Podcast</title>
   <link>https://drive.google.com/file/d/1aTszlSzZ6JsML5h8h00q6dpWLEbB9VE9</link>
-  <description>🎙️ Everyday Entrepreneurs is the podcast that reveals the stories, strategies, and lessons behind the greatest entrepreneurial successes.
-Every week, discover how simple ideas turned into empires — and how you can find inspiration to build your own path.
-No complicated jargon, no empty theories: here, we talk business clearly, directly, and authentically.
-Whether you're a student, a creator, an employee, or an aspiring entrepreneur, Everyday Entrepreneurs is your go-to show to learn, get inspired, and dream big. 🚀
-</description>
-  <language>en-us</language>
-  <image>
-    <url>https://i.postimg.cc/WzM4RgDy/43552199-1745758006101-6698553a7ad3a.jpg</url>
-    <title>Everyday Entrepreneur Podcast</title>
-  </image>
-  <itunes:author>everydayentrepreneur</itunes:author>
-  <itunes:owner>
-    <itunes:name>everydayentrepreneur</itunes:name>
-    <itunes:email>everydayentrepreneurpodcast.pro@gmail.com</itunes:email>
-  </itunes:owner>
+  <description>Le podcast des entrepreneurs du quotidien</description>
+  <language>fr-fr</language>
+
+  <item>
+    <title>Le bonjour du podcast.m4a</title>
+    <description>Épisode auto-généré</description>
+    <enclosure url="https://drive.google.com/file/d/1sYqPH6U8mC9r4RJ30JDJKftQ3-IHTCYZ/view?usp=drivesdk" length="12345" type="audio/m4a"/>
+    <guid>https://drive.google.com/file/d/1sYqPH6U8mC9r4RJ30JDJKftQ3-IHTCYZ/view?usp=drivesdk</guid>
+    <pubDate>Fri, 18 Jul 2025 20:48:26 GMT</pubDate>
+  </item>
 </channel>
 </rss>
