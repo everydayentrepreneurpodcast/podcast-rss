@@ -9,21 +9,30 @@
      xmlns:psc="http://podlove.org/simple-chapters">
 
   <channel>
-    <title><![CDATA[Test]]></title>
-    <description><![CDATA[bonjour]]></description>
+    <title><![CDATA[Everyday Entrepreneurs Podcast]]></title>
+    <description>
+          <![CDATA[🎙️ Everyday Entrepreneurs is the podcast that reveals the stories, strategies, 
+                    and lessons behind the greatest entrepreneurial successes. Every week, discover how simple ideas turned into empires — 
+                    and how you can find inspiration to build your own path. No complicated jargon, no empty theories: here, we talk business 
+                    clearly, directly, and authentically. Whether you're a student, a creator, an employee, or an aspiring entrepreneur, Everyday
+                    Entrepreneurs is your go-to show to learn, get inspired, and dream big. 🚀]]>
+    </description>
     <link>https://podcasters.spotify.com/pod/show/everyday-entrepreneurs2</link>
     <generator>Anchor Podcasts</generator>
     <lastBuildDate>Fri, 18 Jul 2025 22:45:49 GMT</lastBuildDate>
-    <atom:link href="https://anchor.fm/s/everyday-entrepreneurs/podcast/rss" rel="self" type="application/rss+xml"/>
     <author><![CDATA[everyday entrepreneurs]]></author>
     <copyright><![CDATA[Everyday entrepreneurs]]></copyright>
     <language><![CDATA[en-us]]></language>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
-    <itunes:author>everyday entrepreneurs</itunes:author>
-    <itunes:summary>bonjour</itunes:summary>
+    <itunes:author>A.I</itunes:author>
+    <itunes:summary>🎙️ Everyday Entrepreneurs is the podcast that reveals the stories, strategies, 
+                    and lessons behind the greatest entrepreneurial successes. Every week, discover how simple ideas turned into empires — 
+                    and how you can find inspiration to build your own path. No complicated jargon, no empty theories: here, we talk business 
+                    clearly, directly, and authentically. Whether you're a student, a creator, an employee, or an aspiring entrepreneur, Everyday
+                    Entrepreneurs is your go-to show to learn, get inspired, and dream big. 🚀</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
-      <itunes:name>Everyday entrepreneurs</itunes:name>
+      <itunes:name>A.I</itunes:name>
       <itunes:email></itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
@@ -37,7 +46,7 @@
       <guid isPermaLink="false">98f8476-2839-46f1-9a1f-87542695bcbb</guid>
       <dc:creator><![CDATA[everyday entrepreneurs]]></dc:creator>
       <pubDate>Fri, 18 Jul 2025 21:36:40 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/1076a8Ifc/podcast/play/105694791/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-18%2F648ce3fb-2e40-b160-9cb2-a576fae9e030.m4a" length="1946453" type="audio/x-m4a"/>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1sYqPH6U8mC9r4RJ30JDJKftQ3-IHTCYZ" length="1946453" type="audio/x-m4a"/>
       <itunes:summary>&lt;p&gt;tr&lt;/p&gt;&lt;br&gt;&lt;/p&gt;</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>00:02:00</itunes:duration>
