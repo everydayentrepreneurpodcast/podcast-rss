@@ -53,5 +53,20 @@
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44093879/44093879-1752874534003-42d776c968f2a.jpg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+
+<item>
+      <title><![CDATA[Le test 2]]></title>
+      <description><![CDATA[<p>tr</p><p>k</p><p>r</p>]]></description>
+      <link>https://podcasters.spotify.com/pod/show/everyday-entrepreneurs2/episodes/Miam-e35o247</link>
+      <guid isPermaLink="false">98f8476-2839-46f1-9a1f-87542695bcbb</guid>
+      <dc:creator><![CDATA[everyday entrepreneurs]]></dc:creator>
+      <pubDate>Fri, 19 Jul 2025 17:36:40 GMT</pubDate>
+      <enclosure url="https://drive.google.com/file/d/1yYl84yrTDZWFy-M4L5-ADnKe_R46EfWB/view?usp=drive_link" length="1946453" type="audio/x-m4a"/>
+      <itunes:summary>&lt;p&gt;tr&lt;/p&gt;&lt;br&gt;&lt;/p&gt;</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:02:00</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44093879/44093879-1752874534003-42d776c968f2a.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
