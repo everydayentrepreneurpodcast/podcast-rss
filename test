@@ -1,0 +1,1 @@
+npx -y @smithery/cli@latest install @amurshak/podbeanmcp --client claude --profile busy-pig-e12bbA --key fb0f8f8e-8a7f-46ec-ab68-a2689a6bc9c7
